@@ -1,0 +1,6 @@
+[rake]
+name=rake Package Repository
+baseurl=https://rustyhorde.github.io/cargo-rake-packages/rpm/$basearch
+enabled=1
+gpgcheck=1
+gpgkey=https://rustyhorde.github.io/cargo-rake-packages/gpg.key
