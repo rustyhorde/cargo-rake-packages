@@ -1,19 +1,19 @@
 Package: rake-unstable
 Architecture: amd64
-Version: 0.3.0
+Version: 0.3.1
 Priority: optional
 Section: devel
 Maintainer: Jason Ozias <jason.g.ozias@gmail.com>
-Installed-Size: 4585
+Installed-Size: 4595
 Provides: rake
 Conflicts: rake
 Replaces: rake
-Filename: pool/main/rake-unstable_0.3.0_amd64.deb
-Size: 1813828
-MD5sum: 39df15e1bc3dfa85c64e2ece41328792
-SHA1: e79d8a2f47a1b1d6c53e7be6c0ad2236d29f0c5c
-SHA256: c2f2a6016910819d5bc8ffb824b32f85f921911c1c8b74511c57d4791046e350
-SHA512: 3ff88d3e32086f826d618fcaa45006aecdfaf96fad240874e7d8f4310fb84e1533db73bad3e01799a2c745f1924e4ddfbe9cf04ff77258bedb9aa9577ffb1d15
+Filename: pool/main/rake-unstable_0.3.1_amd64.deb
+Size: 1814206
+MD5sum: 0f5deea479e7196cdab2df3546d6bee8
+SHA1: 1bab76c6a8a631f9810112490fcd8eedc4911ec4
+SHA256: b32dccf3cf02f8847046a7b2467898020e8d494a131a1768c853ddce487c9de9
+SHA512: 9a6c1edee07880f7846a0d6aeafb64a9dbad86677f536056acc3f052e418c708ec0c74b33924fdace3acf88e6e419432dd3ed2bf5989e927dc129123f6734e1b
 Homepage: https://github.com/rustyhorde/cargo-rake
 Description: Configuration-driven build tool that runs named targets declared in a
  Rakefile.toml, in dependency order. Built with the `unstable` feature enabled.
@@ -21,20 +21,20 @@ License: MIT OR Apache-2.0
 
 Package: rake-unstable
 Architecture: arm64
-Version: 0.3.0
+Version: 0.3.1
 Priority: optional
 Section: devel
 Maintainer: Jason Ozias <jason.g.ozias@gmail.com>
-Installed-Size: 4366
+Installed-Size: 4373
 Provides: rake
 Conflicts: rake
 Replaces: rake
-Filename: pool/main/rake-unstable_0.3.0_arm64.deb
-Size: 1670764
-MD5sum: d6c7173cf464ea41fd0aa7bd0e23a01e
-SHA1: 3fab1e4b2648cd8ce1a6ac038071d27588447f27
-SHA256: c2714603be4a0943419e60804585f588bdf4fe2f022bc973ad1fdda5da076fe1
-SHA512: d856264ae8b1d58d985da99d96bd545767c634dd6802ba7decbd2c6c4a244abb3ecc27770aaa5f0c385bc6f041be043f87f2b19093a3fa3ef77ed94e4cec87ea
+Filename: pool/main/rake-unstable_0.3.1_arm64.deb
+Size: 1671238
+MD5sum: eb26c24018ef244056a3fa76fae03344
+SHA1: ed8da0993935a587ec2beb70b3e017f242828bd0
+SHA256: b7f02aede342f1c06f321d9ab7636316090df7f09c623e29c0d37d43e6db642f
+SHA512: 4e169a7be72964e071bab5936e8cc25320a10fac056fc6e51fd9d82c283192d059aee2ea5568fe00efa4f4e819de1c8d5e555abe051607c5284b172a5e228f55
 Homepage: https://github.com/rustyhorde/cargo-rake
 Description: Configuration-driven build tool that runs named targets declared in a
  Rakefile.toml, in dependency order. Built with the `unstable` feature enabled.
@@ -42,17 +42,17 @@ License: MIT OR Apache-2.0
 
 Package: rake
 Architecture: amd64
-Version: 0.3.0
+Version: 0.3.1
 Priority: optional
 Section: devel
 Maintainer: Jason Ozias <jason.g.ozias@gmail.com>
-Installed-Size: 4585
-Filename: pool/main/rake_0.3.0_amd64.deb
-Size: 1813778
-MD5sum: 2975c33f938693eb606f7b3b442b5b37
-SHA1: 127f359000be8f8d336e44d1c385790aed141894
-SHA256: 155f3c7b63417ccf55c355436850e81bed49c45d2a6972882a27d2fd06a4b90d
-SHA512: 300c65e0fa133cdfb721c507bb4efbd4d2cdf915e0f3f70ae8aacf6f21da65708a1c0aeaf49d372c9aa0126b0b0aee329ce01ccc523724782c7888baa726d6de
+Installed-Size: 4595
+Filename: pool/main/rake_0.3.1_amd64.deb
+Size: 1814050
+MD5sum: 42777819c43f6077c2be716f1528d464
+SHA1: 0c73ca6d0e33ff060bd8f6181924cd2061521d2e
+SHA256: 4bb3630fe1ae25b21902ab225d0205e76a1d3266b26f5a42886ab34318aa16d9
+SHA512: c67af427f431cadc167e08d00e82b746171aa66d38bc943c175be7c35fa10afe5a97e9d623e5d0e40cdc8283fb22a2bba8ef353926be55269aa807a595801a7b
 Homepage: https://github.com/rustyhorde/cargo-rake
 Description: Configuration-driven build tool that runs named targets declared in a
  Rakefile.toml, in dependency order. Each target owns an ordered array of
@@ -61,17 +61,17 @@ License: MIT OR Apache-2.0
 
 Package: rake
 Architecture: arm64
-Version: 0.3.0
+Version: 0.3.1
 Priority: optional
 Section: devel
 Maintainer: Jason Ozias <jason.g.ozias@gmail.com>
-Installed-Size: 4366
-Filename: pool/main/rake_0.3.0_arm64.deb
-Size: 1670692
-MD5sum: 7ef129573e2d36f9a79eb88e5a0f40e8
-SHA1: e365c2574d64ed340ead10f2508661fafb3b3b50
-SHA256: e0f8cd3aab52fb1192b9f3f1643bec9a13987c166289a4018c70a000e7068a6d
-SHA512: bbf2f71fc3250015636bbb0ed6cfe1c8e0fdc10f5c3f73da8e6b69f2afc65fbb668afc767c453cbad4b001982b9b231b9e45b2d1e95317e93101648b306ee17b
+Installed-Size: 4373
+Filename: pool/main/rake_0.3.1_arm64.deb
+Size: 1671310
+MD5sum: d51f6a63057087aec1e43978fef86b5b
+SHA1: bb1b9c2c72a138bfd6099f5c0f22ec5a6ca21321
+SHA256: a8657a7d722b7a6b22d3987e84e3d680fbc79c92aa0caf0762c3b656dde547a2
+SHA512: e7bf976ad347554693c726fc72549d09ade51b150e9cb8aae6a36338874e4e1b50f26b8f484bc6b4d4f8af2db1016e1a7196e58c4372ffab79e834d207f930dd
 Homepage: https://github.com/rustyhorde/cargo-rake
 Description: Configuration-driven build tool that runs named targets declared in a
  Rakefile.toml, in dependency order. Each target owns an ordered array of
