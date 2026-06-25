@@ -1,28 +1,28 @@
 Architectures: amd64 arm64
 Codename: stable
 Components: main
-Date: Wed, 24 Jun 2026 14:55:12 +0000
+Date: Thu, 25 Jun 2026 01:18:38 +0000
 Description: rake package repository
 Label: rake
 Origin: rake
 Suite: stable
 MD5Sum:
- d3b0cc4d4f932a8f4db61931d0de5807              175 Release
- feac20b516b132e71e393b971723cc9d             3210 main/binary-arm64/Packages
- 4b0ea048c34f38fd1aa7b099b5d8390c             1213 main/binary-arm64/Packages.gz
- 14eac43c8a97031cbdb5896ed4397621             1244 main/binary-arm64/Packages.xz
+ 56f044da20b98a7d44778c8a14773622              175 Release
+ 4ab68ffc3dc8f9c99d4e266a2f6cadfb             3210 main/binary-arm64/Packages
+ 147383477c5016d36e0eaaba3182b0aa             1217 main/binary-arm64/Packages.gz
+ 5266b460a3ce2ec9da17a065b7c8ca18             1256 main/binary-arm64/Packages.xz
 SHA1:
- 5a1c1183b758552bcc00a49a5c75cf2864f5f09c              175 Release
- 3a9400f10ff067a75dbe49ab2c81446bbfe6a425             3210 main/binary-arm64/Packages
- b30573a0faf3c51beb5ed5ddefdc6c5828b2e74f             1213 main/binary-arm64/Packages.gz
- c507baa73b58520ba9b5b2e1daeb9287f63f3ad7             1244 main/binary-arm64/Packages.xz
+ 1ac5d50768b9bc346c5c7a2dd5fcadd9f05ba1cb              175 Release
+ f93be54d9aadc20f6ef9647c53fa9f24d7f2b612             3210 main/binary-arm64/Packages
+ ebf34172923a2fcf0be53c5a3db65b0c708e86d5             1217 main/binary-arm64/Packages.gz
+ 075c0d5ce1ed05598029e46bc8fab61ef593f44b             1256 main/binary-arm64/Packages.xz
 SHA256:
- ee4d133dc1fdd8dfcb97cf6971aefa8947fbeaceb484aab80ed364001a8bae28              175 Release
- 6876820ed57a1bd8a208347310536f69865039d029d265ce2c0d077ec8d4fdbe             3210 main/binary-arm64/Packages
- a621c42157f5f8f0120218e04dca05778327ae211da939096552bcc85256b446             1213 main/binary-arm64/Packages.gz
- 0f069ce1ae27a386e7a34446dd7820c2682d95920477eec3c859a10f3b1fa6b8             1244 main/binary-arm64/Packages.xz
+ d0763df6aed0ac5bd0e2f005a35aa7aafd773bf8fd68088d179f1895010f8dbf              175 Release
+ 156a492c7d598d4b274aafae2513749c57a6a53baada7f5497e83a0733d1a626             3210 main/binary-arm64/Packages
+ 62e7163602b607a698371d8081dfb843b1e28f6709a3cdf394c64c4c18d54963             1217 main/binary-arm64/Packages.gz
+ ffe040f1c6970522aa44d10c7f09c0f02e9f36a94cf26dc197c4d06d1c64de24             1256 main/binary-arm64/Packages.xz
 SHA512:
- b135b1dcbcc62c92fe2ac40d7e0d5ccb2d8077f08d7e5b9ed58d21ccdb84b5d8bf7e2c1610946dbe12ff83a625b4a0ec5f66505af3d832ff4789a3ccb2697649              175 Release
- 9099ae63c238dfa4fc6815d8d96654c6ca601c74b04cf3fa371dc135e17683fce4ac4fb3bce9fe98676e6a9d80559610e85a3ba5fd41018bff9163cae677786b             3210 main/binary-arm64/Packages
- 5978f9584750c654a2b7a54a056500bde0027f010319b12dac0378311a45f06ae8cc76386a8998c21e8027df76dc8b2713b76d62d467fe0ebf6b114ded622d1f             1213 main/binary-arm64/Packages.gz
- ffaf1ae55bf489b98a6e0e13be71d5d13dd84d9eb5b86c89e8b0688e135eb75ed239d39230d7da8a13ad3a43d2d8ccd21a87f5c02a080ae7e678e88131e0abef             1244 main/binary-arm64/Packages.xz
+ f5bd0e3d252ddd9f54ab5aef62d869576d15031c30e98b9fa87a97ac43a74d3625dbc48b663239be7b9a07a32cc1b0caf5e65f94d37c18778648acb00e040d17              175 Release
+ dcd74e191111aaebcc1d6977ec028ffde6afc58e083b6b1b81f3032f3e4e68dbd72e9ff8bd59d696f59c8c0dbd7ec7277d73104631bfb93920bd7b3b57ad00e3             3210 main/binary-arm64/Packages
+ 183b660f5cd8d8d574bca5680b7b5e3c2743d2fd9ee49a85aef1d2422d0c2ed784a4d836de053d07c7e359cdb66830221878be9b6a9ef6a2d80d1d88b779da35             1217 main/binary-arm64/Packages.gz
+ d0e8372ae19ccb68e86a72ad292c2b186069e7c413d5e4b1eb4c31f4ff36679ba18f3981160fc59523ad94d9e65c758ae1f947c6f4c128f3bd185a0bb88e629a             1256 main/binary-arm64/Packages.xz
